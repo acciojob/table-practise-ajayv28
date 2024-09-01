@@ -1,1 +1,5 @@
 /*  your css code here. If applicable */
+.bcolor-table,td,th,tr{
+	background-color:yellow;
+	border:1px double black;
+}
