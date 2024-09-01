@@ -1,5 +1,9 @@
 /*  your css code here. If applicable */
 .bcolor-table,td,th,tr{
-	background-color:yellow;
-	border:1px double black;
+	background-color:rgb(255, 255, 0);
+	border:1px solid rgb(0, 0, 0);
+}
+
+.centr{
+	text-align:right;
 }
