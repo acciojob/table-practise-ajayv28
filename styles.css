@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
 .bcolor{
-	background-color:rgb(255, 255, 0);
+	background-color:yellow;
 }
 
-.bcolor table{
-	border:1px solid rgb(0, 0, 0);
+.table{
+	border:1px solid rgb(255, 255, 0);
 }
 
 .bcolor th,td{
